@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, World azazaza!");
+﻿Console.WriteLine("Hello, World! Aha-ha!!!!1");
